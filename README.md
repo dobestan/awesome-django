@@ -298,6 +298,7 @@ A curated list of awesome Django apps, projects and resources. Inspired by and b
 
 ## WYSIWYG Editors
 
+* [django-ckeditor](https://github.com/django-ckeditor/django-ckeditor/) - Django admin CKEditor integration.
 * [django-summernote](https://github.com/summernote/django-summernote/) - Summernote is a simple WYSIWYG editor. django-summernote allows you to embed Summernote into Django very handy. Support admin mixins and widgets.
 
 ## Wiki apps
